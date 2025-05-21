@@ -13,15 +13,18 @@
 
 ## 🧾 Dataset Description
 
-## 📁 Source: Kaggle FAANG Finance Dataset https://www.kaggle.com/datasets/rudraprasadbhuyan/faang-finance-dataset/data
+## 📁 Source: Kaggle FAANG Finance Dataset 
+https://www.kaggle.com/datasets/rudraprasadbhuyan/faang-finance-dataset/data
 
-## 🔢 Fields Include:
+## 🔢 Fields Include
 
 Company, Date, Market Cap, Net Income, Free Cash Flow, Dividends Paid, EPS, Beta (5Y), Debt to Equity, Operating Income, Volume
 
-## 🕒 Time Period: 2005 to 2024
+## 🕒 Time Period
+- 2005 to 2024
 
-## 🧹 Preprocessing: Cleaned and filtered for latest snapshots and relevant KPIs; appropriately applied aggregation (sum, average).
+## 🧹 Preprocessing
+- Cleaned and filtered for latest snapshots and relevant KPIs; appropriately applied aggregation (sum, average).
 
 ## 📌 Key Visuals & Insights
 ## 📈 1. Stock Price Trend Over Time
